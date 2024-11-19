@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "One-on-One Consultations"
         desc: "Personalized breastfeeding support in a private setting, either in-person or virtually."
-        icon: fas fa-child #find more at https://fontawesome.com/icons
+        icon: fas fa-people-arrows #find more at https://fontawesome.com/icons
       - title: "Home Visits"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-comments
+        icon: fas fa-house-user
       - title: "Postpartum Support"
         desc: "Ongoing support through phone or video calls to address any concerns as they arise."
-        icon: fas fa-phone-alt
+        icon: fas fa-hand-holding-heart
       - title: "Doula Services"
         desc: "Provide a safe birthing space for your home."
         icon: fas fa-user-nurse
