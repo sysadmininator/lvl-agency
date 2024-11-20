@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Supporting Your Breastfeeding Journey
     text: 
-    button: Tell Me More
-    buttonlink: "#services"
+    #button: Tell Me More
+    #buttonlink: "#services"
 
   services:
     title: "Our Services"
@@ -23,10 +23,10 @@ en: &DEFAULT_EN
     list:
       - title: "One-on-One Consultations"
         desc: "Personalized breastfeeding support in a private setting, either in-person or virtually."
-        icon: fas fa-person-breastfeeding #find more at https://fontawesome.com/icons
+        icon: fa-solid fa-person-breastfeeding #find more at https://fontawesome.com/icons
       - title: "Home Visits"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-house
+        desc: "..."
+        icon: fa-solid fa-house
       - title: "Postpartum Support"
         desc: "Ongoing support through phone or video calls to address any concerns as they arise."
         icon: fas fa-hand-holding-heart
