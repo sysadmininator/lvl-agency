@@ -23,10 +23,10 @@ en: &DEFAULT_EN
     list:
       - title: "One-on-One Consultations"
         desc: "Personalized breastfeeding support in a private setting, either in-person or virtually."
-        icon: fas fa-people-arrows #find more at https://fontawesome.com/icons
+        icon: fas fa-person-breastfeeding #find more at https://fontawesome.com/icons
       - title: "Home Visits"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-house-user
+        icon: fas fa-house
       - title: "Postpartum Support"
         desc: "Ongoing support through phone or video calls to address any concerns as they arise."
         icon: fas fa-hand-holding-heart
@@ -35,9 +35,9 @@ en: &DEFAULT_EN
         icon: fas fa-user-nurse
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About the Philosophy"
+    text: "A lifetime of shaping the best approach to care"
+    body: "The goal is always to provide a caring and empathetic healthcare experience where the clients concerns are genuinely listened to, offering comfort, understanding, and nonjudgmental support. Taking the time to understand each individual's unique situation and collaborates with them to develop a tailored care plan that aligns with their goals and needs is of utmost importance."
     section: about
 
   team:
