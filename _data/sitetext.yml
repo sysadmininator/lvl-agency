@@ -23,10 +23,10 @@ en: &DEFAULT_EN
     list:
       - title: "One-on-One Consultations"
         desc: "Personalized breastfeeding support in a private setting, either in-person or virtually."
-        icon: fa-solid fa-person-breastfeeding #find more at https://fontawesome.com/icons
+        icon: fas fa-person-breastfeeding #find more at https://fontawesome.com/icons
       - title: "Home Visits"
         desc: "..."
-        icon: fa-solid fa-house
+        icon: fas fa-house
       - title: "Postpartum Support"
         desc: "Ongoing support through phone or video calls to address any concerns as they arise."
         icon: fas fa-hand-holding-heart
