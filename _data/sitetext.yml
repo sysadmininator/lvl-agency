@@ -48,7 +48,7 @@ en: &DEFAULT_EN
     people:
       - name: "Lisa Caffery"
         role: "Registered Nurse, IBCLC, and Mom :fa-heart:"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
