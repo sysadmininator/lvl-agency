@@ -20,6 +20,7 @@ en: &DEFAULT_EN
     title: "Our Services"
     text: "We offer a range of services to support you and your baby:"
     section: services
+    image: "assets/img/map-image.png"
     list:
       - title: "One-on-One Consultations"
         desc: "Personalized breastfeeding support in a private setting, either in-person or virtually."
